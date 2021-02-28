@@ -9,7 +9,7 @@ const renderLogo = sessionContext => {
   return (
     <div key="link_logo" className="fauna-logo">
       <Link className="logo-container" to="/">
-        <img alt="Fauna logo" src="/images/logo-fauna-white.svg" />
+        <img alt="" src="" />
       </Link>
     </div>
   )
